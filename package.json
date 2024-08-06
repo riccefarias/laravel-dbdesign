@@ -1,0 +1,16 @@
+{
+  "name": "laravel-dbdesign",
+  "version": "0.0.1",
+  "description": "Ferramenta para modelagem de dados com migrations Laravel.",
+  "main": "lib/index.js",
+  "bin": {
+    "laravel-dbdesign": "kore-dbdesign.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "author": "Angelo Farias",
+  "license": "MIT"
+}
