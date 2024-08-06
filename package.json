@@ -1,6 +1,6 @@
 {
   "name": "laravel-dbdesign",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Ferramenta para modelagem de dados com migrations Laravel.",
   "main": "lib/index.js",
   "bin": {
